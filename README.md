@@ -5,6 +5,8 @@
 1. make sure `ask clone` gives the right skills
 2. if not, make sure the correct version of node is being used `nvm use ...`
 3. if not, ensure  the env variable `ASK_DEFAULT_PROFILE` is right 
+
+
 ## Rails
 ### New app with PostgreSQL
 `rails new myapp --database=postgresql`
