@@ -1,4 +1,7 @@
 # Cheat Sheet
+[Alexa Skills Kit](#alexa-skills-kit)
+[Rails](#rails)
+[MySQL](#mysql)
 ## Alexa Skills Kit
 ### Bug - `ask dialog` returning `[Error]`
 [Error]: Failed to simulate dialog. The skill that you are trying to simulate has not been created or cloned. If this is a new skill, please try creating and deploying the skill in your project first. If this is an existing skill, please try cloning the skill in your project first. You can also specify the skill id explicitly via the skill-id option.
